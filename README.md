@@ -32,7 +32,7 @@ I'm Keith Ward, a Senior Software Engineer with over 10 years of experience spec
 - 📈 **Proven Track Record**: Demonstrated ability to design and implement APIs, integrate third-party services, and ensure seamless user experiences across the entire stack.
 
 ## 🌱 About Me:
-I'm passionate about leveraging technology to solve real-world problems and drive positive change. Always learning and exploring new technologies to stay at the forefront of the ever-evolving tech landscape.
+I'm passionate about leveraging technology to solve real-world problems and drive positive change. I love learning, exploring new technologies, and solving tough problems.
 
 ## 📫 Let's Connect!
 Feel free to reach out for collaboration opportunities, tech discussions, or just to say hi. You can find me on GitHub, LinkedIn, or via email at trueinviso@gmail.com.
