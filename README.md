@@ -1,40 +1,28 @@
-<!--
-**trueinviso/trueinviso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Hi there! 👋
 
-I'm Keith Ward, a Senior Software Engineer with over 11 years of experience specializing in backend development, API integrations, and full-stack development. My expertise lies in building robust web applications, designing APIs, integrating payment gateways, and implementing object-oriented programming principles.
+I'm Keith Ward, a Senior Software Engineer with 11+ years of experience specializing in backend systems, API design, and performance optimization. I work primarily with Ruby on Rails and PostgreSQL, and I’m passionate about building reliable, scalable systems that power real-world experiences at scale.
 
-## 🔧 Skills & Expertise:
-- 💻 **Ruby & Ruby on Rails**: 11 years of experience building backend systems and APIs with Ruby and Rails.
-- 💳 **Payment Gateways Integration**: Extensive experience integrating payment gateways like Stripe and Braintree to enable secure transactions in web applications.
-- 🛠️ **API Design & Integration**: Strong background in designing and implementing APIs, including third-party API integration and CRM systems.
-- 📦 **Object-Oriented Programming**: Proficient in object-oriented programming principles, ensuring clean, maintainable, and scalable codebases.
-- 🌐 **JavaScript & Frontend Development**: Proficient in JavaScript, including frameworks such as StimulusJS, Hotwire, React, and React Native, enabling me to build dynamic and interactive user interfaces.
-- 🚀 **Full-Stack Development**: Versatile full-stack developer skilled in both frontend and backend development, capable of architecting and implementing end-to-end solutions.
-- 🤖 **Interest in AI**: I'm also passionate about AI and have some limited experience in the area from a previous project. Excited to explore more opportunities in this field.
+## 🔧 Skills & Expertise
 
-## 💼 Professional Experience:
-- 💼 **Senior Software Engineer**: Successfully led backend and full-stack development projects, delivering high-quality solutions and driving technical innovation.
-- 🛠️ **Collaborative Team Player**: Collaborated with cross-functional teams to design and implement scalable, performant, and reliable backend and frontend systems.
-- 📈 **Proven Track Record**: Demonstrated ability to design and implement APIs, integrate third-party services, and ensure seamless user experiences across the entire stack.
+- 💻 **Ruby & Ruby on Rails**: Deep experience architecting and maintaining backend services, APIs, and background jobs in production systems.
+- 🛰 **Real-Time Systems**: Maintain real-time delivery tracking platforms using PostgreSQL, GraphQL, and Rails, supporting live driver location updates and customer notifications.
+- 🛠 **Performance Tuning**: Diagnose and resolve bottlenecks by analyzing logs, metrics, and traces; restructure queries, add indexes, and optimize data flows in PostgreSQL.
+- 📈 **Observability & Reliability**: Enhance system visibility using Datadog (metrics, SLOs/SLIs) and Sumo Logic (logs); maintain high uptime and responsiveness through robust monitoring.
+- 🧱 **Architecture & RFCs**: Lead discovery, write RFCs, and scope technical work for architectural and performance-critical improvements across microservices.
+- 👥 **Cross-Team Mentorship**: Share performance best practices in code reviews and design discussions, especially around Rails, SQL, and background job patterns.
+- 🔁 **On-Call & Incident Response**: Support production systems through on-call rotations, leading incident response and contributing to postmortems and disaster recovery planning.
+- ⚙️ **Tech Stack**: Ruby, Rails, PostgreSQL, Sidekiq, GraphQL, Kafka, Zeebe, Python, Kubernetes, Datadog, Sumo Logic
 
-## 🌱 About Me:
-I'm passionate about leveraging technology to solve real-world problems and drive positive change. I love learning, exploring new technologies, and solving tough problems.
+## 💼 Professional Experience
 
-## 📫 Let's Connect!
-Feel free to reach out for collaboration opportunities, tech discussions, or just to say hi. You can find me on GitHub, LinkedIn, or via email at trueinviso@gmail.com.
+- 🚚 **Real-Time Delivery Systems**: Built and maintained high-throughput backend services for delivery tracking, including driver location pipelines and customer delivery status updates.
+- 🧪 **Performance Engineering**: Drove company-wide performance improvements by identifying critical slow paths, tuning indexes, and optimizing data models and queries.
+- 🛠️ **Distributed Systems & Observability**: Worked across microservices on a Kubernetes platform, integrating monitoring and alerting to support scaling and reliability at high traffic volumes.
 
+## 🌱 About Me
 
+I'm passionate about backend performance, distributed systems, and clean, scalable architecture. I enjoy debugging hard problems, learning new tools, and collaborating across teams to ship better software.
+
+## 📫 Let's Connect
+
+Open to collaboration, performance optimization challenges, or just swapping ideas. Reach out on GitHub or connect via [LinkedIn](https://www.linkedin.com/in/keith-s-ward/).
