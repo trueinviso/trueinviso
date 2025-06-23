@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I'm Keith Ward, a Senior Software Engineer with over 10 years of experience specializing in backend development, API integrations, and full-stack development. My expertise lies in building robust web applications, designing APIs, integrating payment gateways, and implementing object-oriented programming principles.
 
 ## 🔧 Skills & Expertise:
-- 💻 **Ruby & Ruby on Rails**: 10 years of experience building backend systems and APIs with Ruby and Rails.
+- 💻 **Ruby & Ruby on Rails**: 11 years of experience building backend systems and APIs with Ruby and Rails.
 - 💳 **Payment Gateways Integration**: Extensive experience integrating payment gateways like Stripe and Braintree to enable secure transactions in web applications.
 - 🛠️ **API Design & Integration**: Strong background in designing and implementing APIs, including third-party API integration and CRM systems.
 - 📦 **Object-Oriented Programming**: Proficient in object-oriented programming principles, ensuring clean, maintainable, and scalable codebases.
